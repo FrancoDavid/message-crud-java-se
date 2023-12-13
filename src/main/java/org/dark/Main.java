@@ -38,7 +38,7 @@ public class Main {
             System.out.println("----------------------");
             System.out.println("--------DeleteMessage--");
 
-            //  repository.delete(4);
+            repository.delete(1);
 
             System.out.println("delete message success");
 
